@@ -54,7 +54,8 @@ assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
 
-Developed by: vishal c
+Developed by: Vishal C
+
 RegisterNumber:24001428
 
 **RTL realization**
